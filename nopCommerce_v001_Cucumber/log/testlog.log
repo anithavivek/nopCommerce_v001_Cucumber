@@ -1,0 +1,63 @@
+2020-03-31 23:27:26,811 - NopCommerce -INFO - *********** Launchng browser *********
+2020-03-31 23:27:31,006 - NopCommerce -INFO - *********** Opening the URL *********
+2020-03-31 23:27:31,987 - NopCommerce -INFO - *********** Providing login details *********
+2020-03-31 23:27:32,329 - NopCommerce -INFO - *********** Started Login *********
+2020-03-31 23:27:39,264 - NopCommerce -INFO - *********** User can view the Dashboard *********
+2020-03-31 23:27:39,281 - NopCommerce -INFO - *********** Opening the Customer Link *********
+2020-03-31 23:27:43,161 - NopCommerce -INFO - *********** Clicked on the search Button *********
+2020-03-31 23:27:46,304 - NopCommerce -INFO - *********** Searching customer by Name *********
+2020-03-31 23:27:46,368 - NopCommerce -INFO - *********** Completed the test, closing the browser *********
+2020-04-01 10:51:15,463 - NopCommerce -INFO - *********** Launchng browser *********
+2020-04-01 10:51:19,667 - NopCommerce -INFO - *********** Opening the URL *********
+2020-04-01 10:51:20,945 - NopCommerce -INFO - *********** Providing login details *********
+2020-04-01 10:51:21,409 - NopCommerce -INFO - *********** Started Login *********
+2020-04-01 10:51:28,427 - NopCommerce -INFO - *********** User can view the Dashboard *********
+2020-04-01 10:51:28,451 - NopCommerce -INFO - *********** Opening the Customer Link *********
+2020-04-01 10:51:32,186 - NopCommerce -INFO - *********** Clicked on the search Button *********
+2020-04-01 10:51:35,329 - NopCommerce -INFO - *********** Searching customer by Name *********
+2020-04-01 10:51:35,463 - NopCommerce -INFO - *********** Completed the test, closing the browser *********
+2020-04-01 10:54:23,665 - NopCommerce -INFO - *********** Launchng browser *********
+2020-04-01 10:54:23,753 - NopCommerce -INFO - *********** Opening the URL *********
+2020-04-01 10:54:24,930 - NopCommerce -INFO - *********** Providing login details *********
+2020-04-01 10:54:25,111 - NopCommerce -INFO - *********** Started Login *********
+2020-04-01 10:54:32,720 - NopCommerce -INFO - *********** User can view the Dashboard *********
+2020-04-01 10:54:32,729 - NopCommerce -INFO - *********** Opening the Customer Link *********
+2020-04-01 10:54:36,854 - NopCommerce -INFO - *********** Clicked on the search Button *********
+2020-04-01 10:54:40,281 - NopCommerce -INFO - *********** Searching customer by Name *********
+2020-04-01 10:54:40,332 - NopCommerce -INFO - *********** Completed the test, closing the browser *********
+2020-04-01 12:58:59,239 - NopCommerce -INFO - *********** Launchng browser *********
+2020-04-01 12:58:59,332 - NopCommerce -INFO - *********** Opening the URL *********
+2020-04-01 12:59:00,402 - NopCommerce -INFO - *********** Providing login details *********
+2020-04-01 12:59:00,593 - NopCommerce -INFO - *********** Started Login *********
+2020-04-01 12:59:07,545 - NopCommerce -INFO - *********** User can view the Dashboard *********
+2020-04-01 12:59:07,552 - NopCommerce -INFO - *********** Opening the Customer Link *********
+2020-04-01 12:59:10,935 - NopCommerce -INFO - *********** Clicked on the search Button *********
+2020-04-01 12:59:14,387 - NopCommerce -INFO - *********** Searching customer by Name *********
+2020-04-01 12:59:14,433 - NopCommerce -INFO - *********** Completed the test, closing the browser *********
+2020-04-01 13:00:40,712 - NopCommerce -INFO - *********** Launchng browser *********
+2020-04-01 13:00:40,789 - NopCommerce -INFO - *********** Opening the URL *********
+2020-04-01 13:00:41,607 - NopCommerce -INFO - *********** Providing login details *********
+2020-04-01 13:00:41,737 - NopCommerce -INFO - *********** Started Login *********
+2020-04-01 13:00:47,948 - NopCommerce -INFO - *********** User can view the Dashboard *********
+2020-04-01 13:00:47,958 - NopCommerce -INFO - *********** Opening the Customer Link *********
+2020-04-01 13:00:51,749 - NopCommerce -INFO - *********** Clicked on the search Button *********
+2020-04-01 13:00:55,207 - NopCommerce -INFO - *********** Searching customer by Name *********
+2020-04-01 13:00:55,257 - NopCommerce -INFO - *********** Completed the test, closing the browser *********
+2020-04-01 13:55:59,649 - NopCommerce -INFO - *********** Launchng browser *********
+2020-04-01 13:55:59,701 - NopCommerce -INFO - *********** Opening the URL *********
+2020-04-01 13:56:00,749 - NopCommerce -INFO - *********** Providing login details *********
+2020-04-01 13:56:00,844 - NopCommerce -INFO - *********** Started Login *********
+2020-04-01 13:56:07,169 - NopCommerce -INFO - *********** User can view the Dashboard *********
+2020-04-01 13:56:07,181 - NopCommerce -INFO - *********** Opening the Customer Link *********
+2020-04-01 13:56:10,479 - NopCommerce -INFO - *********** Clicked on the search Button *********
+2020-04-01 13:56:13,716 - NopCommerce -INFO - *********** Searching customer by Name *********
+2020-04-01 13:56:13,761 - NopCommerce -INFO - *********** Completed the test, closing the browser *********
+2020-04-01 14:01:07,897 - NopCommerce -INFO - *********** Launchng browser *********
+2020-04-01 14:01:07,935 - NopCommerce -INFO - *********** Opening the URL *********
+2020-04-01 14:01:09,058 - NopCommerce -INFO - *********** Providing login details *********
+2020-04-01 14:01:09,140 - NopCommerce -INFO - *********** Started Login *********
+2020-04-01 14:01:15,373 - NopCommerce -INFO - *********** User can view the Dashboard *********
+2020-04-01 14:01:15,385 - NopCommerce -INFO - *********** Opening the Customer Link *********
+2020-04-01 14:01:18,764 - NopCommerce -INFO - *********** Clicked on the search Button *********
+2020-04-01 14:01:21,995 - NopCommerce -INFO - *********** Searching customer by Name *********
+2020-04-01 14:01:22,030 - NopCommerce -INFO - *********** Completed the test, closing the browser *********

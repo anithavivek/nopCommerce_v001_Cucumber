@@ -1,0 +1,63 @@
+2020-03-31 23:27:26,811 [main] INFO NopCommerce - *********** Launchng browser *********
+2020-03-31 23:27:31,006 [main] INFO NopCommerce - *********** Opening the URL *********
+2020-03-31 23:27:31,987 [main] INFO NopCommerce - *********** Providing login details *********
+2020-03-31 23:27:32,329 [main] INFO NopCommerce - *********** Started Login *********
+2020-03-31 23:27:39,264 [main] INFO NopCommerce - *********** User can view the Dashboard *********
+2020-03-31 23:27:39,281 [main] INFO NopCommerce - *********** Opening the Customer Link *********
+2020-03-31 23:27:43,161 [main] INFO NopCommerce - *********** Clicked on the search Button *********
+2020-03-31 23:27:46,304 [main] INFO NopCommerce - *********** Searching customer by Name *********
+2020-03-31 23:27:46,368 [main] INFO NopCommerce - *********** Completed the test, closing the browser *********
+2020-04-01 10:51:15,463 [main] INFO NopCommerce - *********** Launchng browser *********
+2020-04-01 10:51:19,667 [main] INFO NopCommerce - *********** Opening the URL *********
+2020-04-01 10:51:20,945 [main] INFO NopCommerce - *********** Providing login details *********
+2020-04-01 10:51:21,409 [main] INFO NopCommerce - *********** Started Login *********
+2020-04-01 10:51:28,427 [main] INFO NopCommerce - *********** User can view the Dashboard *********
+2020-04-01 10:51:28,451 [main] INFO NopCommerce - *********** Opening the Customer Link *********
+2020-04-01 10:51:32,186 [main] INFO NopCommerce - *********** Clicked on the search Button *********
+2020-04-01 10:51:35,329 [main] INFO NopCommerce - *********** Searching customer by Name *********
+2020-04-01 10:51:35,463 [main] INFO NopCommerce - *********** Completed the test, closing the browser *********
+2020-04-01 10:54:23,665 [main] INFO NopCommerce - *********** Launchng browser *********
+2020-04-01 10:54:23,753 [main] INFO NopCommerce - *********** Opening the URL *********
+2020-04-01 10:54:24,930 [main] INFO NopCommerce - *********** Providing login details *********
+2020-04-01 10:54:25,111 [main] INFO NopCommerce - *********** Started Login *********
+2020-04-01 10:54:32,720 [main] INFO NopCommerce - *********** User can view the Dashboard *********
+2020-04-01 10:54:32,729 [main] INFO NopCommerce - *********** Opening the Customer Link *********
+2020-04-01 10:54:36,854 [main] INFO NopCommerce - *********** Clicked on the search Button *********
+2020-04-01 10:54:40,281 [main] INFO NopCommerce - *********** Searching customer by Name *********
+2020-04-01 10:54:40,332 [main] INFO NopCommerce - *********** Completed the test, closing the browser *********
+2020-04-01 12:58:59,239 [main] INFO NopCommerce - *********** Launchng browser *********
+2020-04-01 12:58:59,332 [main] INFO NopCommerce - *********** Opening the URL *********
+2020-04-01 12:59:00,402 [main] INFO NopCommerce - *********** Providing login details *********
+2020-04-01 12:59:00,593 [main] INFO NopCommerce - *********** Started Login *********
+2020-04-01 12:59:07,545 [main] INFO NopCommerce - *********** User can view the Dashboard *********
+2020-04-01 12:59:07,552 [main] INFO NopCommerce - *********** Opening the Customer Link *********
+2020-04-01 12:59:10,935 [main] INFO NopCommerce - *********** Clicked on the search Button *********
+2020-04-01 12:59:14,387 [main] INFO NopCommerce - *********** Searching customer by Name *********
+2020-04-01 12:59:14,433 [main] INFO NopCommerce - *********** Completed the test, closing the browser *********
+2020-04-01 13:00:40,712 [main] INFO NopCommerce - *********** Launchng browser *********
+2020-04-01 13:00:40,789 [main] INFO NopCommerce - *********** Opening the URL *********
+2020-04-01 13:00:41,607 [main] INFO NopCommerce - *********** Providing login details *********
+2020-04-01 13:00:41,737 [main] INFO NopCommerce - *********** Started Login *********
+2020-04-01 13:00:47,948 [main] INFO NopCommerce - *********** User can view the Dashboard *********
+2020-04-01 13:00:47,958 [main] INFO NopCommerce - *********** Opening the Customer Link *********
+2020-04-01 13:00:51,749 [main] INFO NopCommerce - *********** Clicked on the search Button *********
+2020-04-01 13:00:55,207 [main] INFO NopCommerce - *********** Searching customer by Name *********
+2020-04-01 13:00:55,257 [main] INFO NopCommerce - *********** Completed the test, closing the browser *********
+2020-04-01 13:55:59,649 [main] INFO NopCommerce - *********** Launchng browser *********
+2020-04-01 13:55:59,701 [main] INFO NopCommerce - *********** Opening the URL *********
+2020-04-01 13:56:00,749 [main] INFO NopCommerce - *********** Providing login details *********
+2020-04-01 13:56:00,844 [main] INFO NopCommerce - *********** Started Login *********
+2020-04-01 13:56:07,169 [main] INFO NopCommerce - *********** User can view the Dashboard *********
+2020-04-01 13:56:07,181 [main] INFO NopCommerce - *********** Opening the Customer Link *********
+2020-04-01 13:56:10,479 [main] INFO NopCommerce - *********** Clicked on the search Button *********
+2020-04-01 13:56:13,716 [main] INFO NopCommerce - *********** Searching customer by Name *********
+2020-04-01 13:56:13,761 [main] INFO NopCommerce - *********** Completed the test, closing the browser *********
+2020-04-01 14:01:07,897 [main] INFO NopCommerce - *********** Launchng browser *********
+2020-04-01 14:01:07,935 [main] INFO NopCommerce - *********** Opening the URL *********
+2020-04-01 14:01:09,058 [main] INFO NopCommerce - *********** Providing login details *********
+2020-04-01 14:01:09,140 [main] INFO NopCommerce - *********** Started Login *********
+2020-04-01 14:01:15,373 [main] INFO NopCommerce - *********** User can view the Dashboard *********
+2020-04-01 14:01:15,385 [main] INFO NopCommerce - *********** Opening the Customer Link *********
+2020-04-01 14:01:18,764 [main] INFO NopCommerce - *********** Clicked on the search Button *********
+2020-04-01 14:01:21,995 [main] INFO NopCommerce - *********** Searching customer by Name *********
+2020-04-01 14:01:22,030 [main] INFO NopCommerce - *********** Completed the test, closing the browser *********
